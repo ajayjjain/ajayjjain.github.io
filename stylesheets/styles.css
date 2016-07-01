@@ -63,7 +63,7 @@ body {
   font-weight:400;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
 }
@@ -72,7 +72,7 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
-h1, h2, h3 {
+h1, h2, h3{
   line-height:1.1;
 }
 
@@ -84,7 +84,14 @@ h2 {
   color:#393939;
 }
 
-h3, h4, h5, h6 {
+h3 {
+    font-size: 54px;
+    text-align: center;
+    font-weight: 300;
+    color: #22A39F;
+}
+
+h4, h5, h6 {
   color:#494949;
 }
 
@@ -379,10 +386,5 @@ ul.topnav li.icon {display: none;}
     text-align: left;
   }
   
-h3 {
-    font-size: 54px;
-    text-align: center;
-    font-weight: 300;
-    color: #22A39F;
-}
+
 }
