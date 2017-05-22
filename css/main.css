@@ -398,6 +398,15 @@ a:not([href]):not([tabindex]):hover {
   background: #fff;
   box-shadow: 0 8px 48px 0 rgba(0, 0, 0, 0.15);
 }
+.centered div{
+    position:absolute;
+    width:100px;
+    height:100px;
+    left:50%;
+    top:50%;
+    margin-left:-50px;
+    margin-top:-50px;
+}
 #services {
   position: relative;
   background: #f2f2f2;
