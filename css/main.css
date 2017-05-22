@@ -582,6 +582,13 @@ a:not([href]):not([tabindex]):hover {
 .portfolio-img img {
   width: 100%;
 }
+.bordercorner img {
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 400px;
+    height: 300px; 
+}
 .portfoli-content {
   width: 100%;
   position: absolute;
@@ -1210,12 +1217,4 @@ footer {
     transform: scale(1);
     -webkit-transform: scale(1);
   }
-  
-  .bordercorner img {
-    border-radius: 25px;
-    background: #73AD21;
-    padding: 20px; 
-    width: 200px;
-    height: 150px; 
-}
 }
