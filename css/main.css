@@ -582,9 +582,9 @@ a:not([href]):not([tabindex]):hover {
 .portfolio-img img {
   width: 100%;
 }
-.bordercorner img {
+#rcorners2 {
     border-radius: 25px;
-    background: #73AD21;
+    border: 2px solid #73AD21;
     padding: 20px; 
     width: 400px;
     height: 300px; 
