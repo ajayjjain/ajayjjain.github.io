@@ -126,6 +126,14 @@ a:not([href]):not([tabindex]):hover {
 .section-header .section-title span {
   color: #4676fa;
 }
+.section-header .section-mini-title {
+  font-size: 33px;
+  margin-top: 15px;
+  text-transform: uppercase;
+  font-weight: 200;
+  color: #0d3559;
+  position: relative;
+}
 .section-header .section-subtitle {
   margin-top: 15px;
   color: #333;
