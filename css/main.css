@@ -144,7 +144,7 @@ a:not([href]):not([tabindex]):hover {
   margin-top: 15px;
   color: #333;
   font-size: 28px;
-  font-weight: 2000;
+  font-weight: bolder;
 }
 .section-header .lines {
   margin: auto;
