@@ -142,7 +142,7 @@ a:not([href]):not([tabindex]):hover {
 }
 .section-header .section-bubtitle {
   margin-top: 15px;
-  color: #0d3559;
+  color: #333;
   font-size: 28px;
   font-weight: 400;
 }
