@@ -1,6 +1,6 @@
 ---
 title: Resume
-description: Ajay Jain's resume.
+description: Civic Folio's resume.
 permalink: /resume/
 ---
 

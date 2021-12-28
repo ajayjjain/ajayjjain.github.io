@@ -1,11 +1,10 @@
 # General
 title: Ajay Jain
-description: "I am a software engineer who is unceasingly determined to build technology for social good. I currently work at Column, a startup that develops software for local newspapers and makes public data more accessible to local communities. I previously worked at the Texas Democratic Party and at the US Department of Health and Human Services."
-avatar: avatar.jpg
+description: "Hi there!"
+avatar: ajay-column.jpg
 
 # Social media
 email: mailto:ajay@ajayjain.io
-calendar: /calendar
 linkedin: https://www.linkedin.com/in/ajay-jain-3209a6113/
 twitter: https://twitter.com/theajayjain
 medium: https://medium.com/@theajayjain
@@ -33,7 +32,7 @@ defaults:
       layout: "default"
   - scope:
       path: ""
-      type: "projects"
+      type: "posts"
     values:
       layout: "post"
   - scope:
@@ -51,9 +50,9 @@ collections:
   pages:
     output: true
     permalink: :title
-  projects:
+  posts:
     output: true
-    permalink: /projects/:title
+    permalink: /posts/:title
   work:
     output: true
     permalink: /work/:title

@@ -1,21 +1,10 @@
 ---
-title: About
-description: Sample page using the About layout template.
+title: About Me
+description:
 layout: about
 permalink: /about/
 ---
 
-Ajay Jain is a portfolio website for civic technologists.
+I am a software engineer who is unceasingly determined to build technology for social good. I currently work at Column, a startup that develops software for local newspapers and makes public data more accessible to local communities. I previously worked at the Texas Democratic Party and at the US Department of Health and Human Services.
 
-## Who it's for
-
-Ajay Jain is for anyone, but it's more focused on supporting civic designers and developers interested in building their portfolio websites while learning about open, collaborative tools and ways of working.
-
-## Technology
-
-Ajay Jain is built using:
-
-* Jekyll
-* Bootstrap
-* Font Awesome
-* GitHub Pages
+In my free time...

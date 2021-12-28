@@ -2,7 +2,7 @@
     {% if include.limit %}
         {% assign limitVar = include.limit | plus: 0 %}
     {% endif %}
-    {% for post in site.projects limit:limitVar %}
+    {% for post in site.posts limit:limitVar %}
     <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 d-flex align-items-stretch">
         <div class="card">
             <div class="card-body">

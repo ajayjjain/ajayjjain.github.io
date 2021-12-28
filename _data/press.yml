@@ -1,15 +1,22 @@
 docs_list_title: press
 docs:
 
-- title: "Headline of a press article"
-  url: https://govfresh.com
-  source: Source name
+- title: "Thanksgiving challenges airlines as US travel nears pre-pandemic levels"
+  url: https://www.theguardian.com/us-news/2021/nov/23/thanksgiving-travel-airports-staffing-cancelations
+  source: The Guardian
 
-- title: "Headline of a press article"
-  url: https://govfresh.com
-  source: Source name
+- title: "Move over Mr. Smith, Ajay Jain is coming to Washington"
+  url: https://stat.illinois.edu/news/2020-07-08/move-over-mr-smith-ajay-jain-coming-washington
+  source: University of Illinois
 
-- title: "Headline of a press article"
-  url: https://govfresh.com
-  source: Source name
+- title: "Meet the 2020 Fellows: Health and Human Services"
+  url: https://blog.codingitforward.com/meet-the-2020-fellows-health-and-human-services-3bed4baac733
+  source: Coding it Forward
 
+- title: "Right-wing Twitter propaganda bots pumping up Jeanne Ives campaign for governor, study finds"
+  url: https://chicagoreader.com/blogs/right-wing-twitter-propaganda-bots-pumping-up-jeanne-ives-campaign-for-governor-study-finds/
+  source: Chicago Reader
+
+- title: "Some Twitter bots appear to be promoting the Ives campaign"
+  url: https://capitolfax.com/2018/03/15/some-twitter-bots-appear-to-be-promoting-the-ives-campaign/
+  source: Capitol Fax
