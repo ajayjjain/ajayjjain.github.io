@@ -1,6 +1,6 @@
 ---
 title: Posts
-description: Sample page using the Posts layout template.
+description:
 layout: posts
 permalink: /posts/
 ---
