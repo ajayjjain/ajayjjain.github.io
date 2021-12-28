@@ -1,0 +1,77 @@
+# General
+title: Ajay Jain
+description: "I am a software engineer who is unceasingly determined to build technology for social good. I currently work at Column, a startup that develops software for local newspapers and makes public data more accessible to local communities. I previously worked at the Texas Democratic Party and at the US Department of Health and Human Services."
+avatar: avatar.jpg
+
+# Social media
+email: mailto:ajay@ajayjain.io
+calendar: /calendar
+linkedin: https://www.linkedin.com/in/ajay-jain-3209a6113/
+twitter: https://twitter.com/theajayjain
+medium: https://medium.com/@theajayjain
+github: https://github.com/theajayjain
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+
+# Date/time
+date: "%B %-d, %Y"
+timezone: 
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "work"
+    values:
+      layout: "work"
+  - scope:
+      path: ""
+      type: "category"
+    values:
+      layout: "category"
+      
+collections:
+  pages:
+    output: true
+    permalink: :title
+  projects:
+    output: true
+    permalink: /projects/:title
+  work:
+    output: true
+    permalink: /work/:title
+  categories:
+    output: true
+    permalink: categories/:title
+
+# Exclude
+exclude:
+  - CNAME
+  - readme.md
+  - gemfiles/
+  - Gemfile
+#   - Gemfile.lock
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
